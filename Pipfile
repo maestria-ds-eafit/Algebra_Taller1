@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-pillow = "*"
 sklearn = "*"
 scikit-learn = "*"
+numpy = "*"
+pillow = "*"
 
 [dev-packages]
 ipykernel = "*"
