@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "96bc958ce711c39199c484c0bc12b1edf7a6b595e7d791d3a0793ef78960e43f"
+            "sha256": "f6a262b29c2c9323ba17b519337e86a183ac5a82419329574bde622f6a02b9a0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -231,13 +231,6 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
-        },
-        "sklearn": {
-            "hashes": [
-                "sha256:1ff5864cf30489ee48a014fe8f4320d7bb59592392a4ef52ae9d7a37942615ac"
-            ],
-            "index": "pypi",
-            "version": "==0.0.post9"
         },
         "threadpoolctl": {
             "hashes": [
