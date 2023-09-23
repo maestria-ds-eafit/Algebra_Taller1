@@ -8,8 +8,8 @@ pandas = "*"
 scikit-learn = "*"
 numpy = "*"
 pillow = "*"
-matplotlib = "*"
 ipywidgets = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
